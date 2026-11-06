@@ -1,8 +1,8 @@
 {
-  "version": "1.9.15",
-  "fichier": "Surveillance-STM-1.9.15.paquet",
-  "sha256": "ff7a43386598ee27b43c1b87789f50bb861996fdbd1ab477e769fa7a0a9edb3d",
-  "taille": 3255698,
-  "publie": "2026-11-05T10:18:21Z",
-  "commit": "b0bd94b4336a16da21da38a2be229bfa87fcf40e"
+  "version": "1.9.16",
+  "fichier": "Surveillance-STM-1.9.16.paquet",
+  "sha256": "b362f8cde549b6bab728f6e35d5442bacc8c164ca05c6b09904f0270139d22ef",
+  "taille": 3251328,
+  "publie": "2026-11-06T08:50:19Z",
+  "commit": "0bcb1535cc968f99f9c94f681beb86ac9df88f8d"
 }
