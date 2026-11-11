@@ -1,8 +1,8 @@
 {
-  "version": "0.3.26",
-  "fichier": "Para-Booking-0.3.26.paquet",
-  "sha256": "8d888e3829723e974c73c96d03bc91116f28b22900647d12a1fa3e46af0a617d",
-  "taille": 3136147,
-  "publie": "2026-11-11T03:24:10Z",
-  "commit": "97acf90e2c398ddaea7ce9dd2b2db6d93889086f"
+  "version": "0.3.27",
+  "fichier": "Para-Booking-0.3.27.paquet",
+  "sha256": "604eb69b19773eb09f16e6153305b06d86a40b01695285b255288a6a841ad055",
+  "taille": 3136155,
+  "publie": "2026-11-11T04:08:07Z",
+  "commit": "5b724c8852a8b8188e636780c0943452468beb63"
 }
